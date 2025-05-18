@@ -1,4 +1,4 @@
-# ChitsTech Store (final_project)
+# E-Commercial (final_project)
 
 Một dự án Flutter mới. Đây là một ứng dụng thương mại điện tử đa nền tảng, đầy đủ chức năng cho người mua và chủ cửa hàng, tập trung vào việc bán máy tính và linh kiện máy tính.
 
